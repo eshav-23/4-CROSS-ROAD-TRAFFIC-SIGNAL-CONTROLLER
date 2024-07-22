@@ -10,7 +10,7 @@ This Verilog code is implemented in XILINX Vivado.
 1. Clone the repository to your local machine:
     
     ```
-    git clone <https://github.com/eshav-23/4-CROSSS-ROAD-TRAFFIC-SIGNAL-CONTROLLER>
+    git clone <https://github.com/eshav-23/4-CROSS-ROAD-TRAFFIC-SIGNAL-CONTROLLER>
     
     ```
     
