@@ -1,4 +1,4 @@
-# 4-CROsS-ROAD-TRAFFIC-SIGNAL-CONTROLLER
+# 4-CROSS-ROAD-TRAFFIC-SIGNAL-CONTROLLER
 4-cross road traffic signal controller is designed and implemented in Verilog. Moore Finite State Machine is used in designing the verilog project.
 
 ## Installation
