@@ -38,22 +38,17 @@ module tb();
     // Clock generation
     initial begin
         clk = 1'b0;
-        forever #5 clk = ~clk;  // 10 time units clock period
+        forever #5 clk = ~clk;  
     end
 
     // Test sequence
     initial begin
-        // Initialize reset
         reset =0;
         #10;
         reset = 1;
         #10;
         reset = 0;
-
-        // Observe the signals for a period of time
-        #1500; // Run the simulation for 500 time units
-
-        // End the simulation
+        #1500; 
         $finish;
     end
 
